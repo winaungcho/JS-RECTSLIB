@@ -1,5 +1,5 @@
 # JS-RECTSLIB
-This class help for the logical constructions of the rectangles.
+This pure vanilla js class help for the logical constructions of the rectangles.
 The groups of rectangles can be conbined using logical ooerations such as union, subtract and intersect.
 
 ## Algorythm
