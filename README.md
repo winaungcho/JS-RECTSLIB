@@ -9,6 +9,8 @@ Algorythm is very simple.
 - Then choose or remove the rectangles which lies inside the subject rectangles according to boolean operation intersect or subtract.
 
 ## Example Demo
+
+[View](https://htmlpreview.github.io/?https://github.com/winaungcho/JS-RECTSLIB/blob/main/src/example.html)
 ````Js
 const c = document.getElementById("myCanvas");
 	const ctx = c.getContext("2d");
