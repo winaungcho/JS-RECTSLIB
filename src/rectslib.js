@@ -25,7 +25,6 @@ class RectsLib {
     constructor(){
         this.X0 = 10;
 		this.Y0 = 10;
-		this.arr = [];
     }
 
 	point(x, y) {
