@@ -1,6 +1,6 @@
 # JS-RECTSLIB
 This pure vanilla js class help for the logical constructions of the rectangles.
-The groups of rectangles can be conbined using logical ooerations such as union, subtract and intersect.
+The groups of rectangles can be conbined using logical ooerations such as union, subtract and intersect. It will generate the border edges of non-overlapped rectangles.
 [PHP Version](https://github.com/winaungcho/PHP-RECTSLIB)
 
 ## Algorythm
